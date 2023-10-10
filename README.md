@@ -5,3 +5,4 @@
   
   Regression - Hardy  
   
+Finish with plot comparing BTC daily returns vs trading strategy returns
