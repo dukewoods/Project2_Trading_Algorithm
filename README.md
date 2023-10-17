@@ -64,7 +64,19 @@ ___
 1. Complete the Installation instructions above for your Operating System.
 2. Open notebook/
 3. Run the notebook
+   
+___
+## Data Collection
+To commence the analysis a csv file was downloaded from yfinance to provide the daily close price of BTC/AUD. This data is then imported into each note book with the Pandas library. For our analysis the time frame downloaded was January 2018 until October 2023. 
 
+___
+## Data Analysis
+###### Importing Libraries
+The notebook begins by importing the required libraries to complete the analysis. Libraries include data manipulation packages such as pandas and visualisation packages such as matplotlib. New packages in this model are TA-Lib which is a library popular for technical analysis in trading and finance. 
+
+
+
+___
 ### Create four machine learning trading algorithm's using BTC csv data to generate returns try and outperform the cumulative daily returns. 
   Support Vector Classifier - Duke  
   
