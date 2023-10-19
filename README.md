@@ -8,9 +8,7 @@ This README has been created to define our project scope and overview of the Mac
 - [Usage](#usage)
 - [Data Collection](#data-collection)
 - [Data Analysis](#data-analysis)
-- [Projections](#projections)
-- [Contributing](#contributing)
-- [License](#license)
+- [Discussion](#discussion)
 
  ___ 
 # Introduction
@@ -106,3 +104,5 @@ Some notebooks make use of the Support Vector Classification with adaboost for c
 Create a plot comparing the actual and predicted returns from the linear regression model, save this plot as 'linear_regression_plot.png'.
 ___
 
+# Disucssion
+[[Images/Linear_Regression_Evaluation.png]]
