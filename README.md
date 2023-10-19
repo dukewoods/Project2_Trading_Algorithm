@@ -107,6 +107,13 @@ ___
 # Disucssion
 ![](/Images/Linear_Regression_Evaluation.png)
 
+When evaluating the linear regression strategy model, the cumulative returns from the strategy outperforms the closing historic prices of BTC/AUD. The models R2 values were very poor and not able to reproduced. 
+___
 ![](/Images/Neural_Network_Evaluation.png)
 
+From the plot above we are able to view three strategies. Blue line is a boutique strategy, Grey line is a buy and hold strategy and the pink line is the neural network strategy. As you can see using the alternative strategies is far more successful than attempting to utilise neural networks in trading. This scenario was created with a buy in of $50,000. 
+___
 ![](/Images/SVM_Model_Evaluation.png)
+
+Our SVM/Adaboost model did produce a greater return compared to the buy and hold strategy of bitcoin. A main consideration from this graphic is that the returns were decreasing when the market was performing poorly, in an ideal world a strategy would be profitibale even when the market is not performing in the most optimal conditions. 
+___
