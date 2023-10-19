@@ -105,4 +105,4 @@ Create a plot comparing the actual and predicted returns from the linear regress
 ___
 
 # Disucssion
-![](../Images/Linear_Regression_Evaluation.png)
+![](/Images/Linear_Regression_Evaluation.png)
