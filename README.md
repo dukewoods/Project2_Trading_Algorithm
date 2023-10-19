@@ -106,3 +106,7 @@ ___
 
 # Disucssion
 ![](/Images/Linear_Regression_Evaluation.png)
+
+![](/Images/Neural_Network_Evaluation.png)
+
+![](/Images/SVM_Model_Evaluation.png)
